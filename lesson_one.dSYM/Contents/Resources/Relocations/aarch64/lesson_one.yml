@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/himavanth/Documents/git_training/output/lesson_one'
+relocations:     []
+...
